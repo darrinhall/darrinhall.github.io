@@ -35,4 +35,14 @@ h3 {
 
 .degree {
   font-size: 22px;
+  text-align: center;
+}
+
+img {
+  width:50%;
+}
+
+.school {
+  text-align: center;
+  font-size: 20px;
 }
