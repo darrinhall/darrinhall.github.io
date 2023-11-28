@@ -7,14 +7,17 @@ body {
 
 .exp-header {
   background-color: rgba(0,0,0, .2);
-  font-size: 26px;
+  font-size: 22px;
   text-transform: uppercase;
   border-top: 3px solid grey;
   border-bottom: 3px solid grey;
 }
 
+h6 {
+  font-size: 14px;
+}
+
 p {
-  text-transform: uppercase;
   border-top: 3px solid grey;
 }
 
@@ -24,7 +27,7 @@ h3 {
 
 .position {
   font-size: 15px;
-  padding: 5px;
+  padding: 15px;
 }
 
 .exp {
@@ -35,7 +38,8 @@ h3 {
 
 .company {
   background-color: rgba(245,73,39);
-  text-align: center;
+  text-align: left;
+  padding: 5px;
 }
 
 .degree {
